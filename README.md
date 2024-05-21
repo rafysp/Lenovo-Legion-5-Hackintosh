@@ -41,7 +41,7 @@
 
 ## Screenshots 📷
 
-### CPU Frequency and Temperature  
+### CPU Frequency and Temperature.  
 - Normal
 
   <img src="https://github.com/yusufklncc/Lenovo-Legion-5-Hackintosh/blob/main/Images/Normal%20CPU%20Frequency%20and%20Temperature.jpeg" width="300">
